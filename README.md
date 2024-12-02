@@ -28,6 +28,11 @@ You can read one RFID tag and copy it as often as you want.
 
 You can not read one RFID tag and write to the same with the same data (you can't "fill" the spool directly)
 
+FUTURE_______________________________________________________________________________________________________________________
+
+I want to designt build a respooler, where i can get big spools (4,5kg) and respool them on to the Makerbot spools. 
+I want to include a weight sensor, so the spools are filled to the specs from the RFID tags (eg. 600g/650g/etc). There should also be perfect winding and a filament runout sensor. (Lets see, it could take a while)
+
 
 HARDWARE YOU NEED____________________________________________________________________________________________________________
 
