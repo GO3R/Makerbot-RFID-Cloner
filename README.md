@@ -1,5 +1,9 @@
 I have a lot of empty SR-30 spools and i respool them with ABS (its way cheaper than buing original from Makerbot). The one problem with that is, i only have one ABS RFID chip. So i made my own RFID cloner for these chips.
 
+You can only duplicate existing RFID tags from your spools. You can not use this product to make a new material. 
+
+I "reverse engeneered" the original RFID tag contents for you, but i will not share that. Makerbot please do not sue me :) 
+
 You need the following Library: https://github.com/ATrappmann/PN5180-Library
 
 
