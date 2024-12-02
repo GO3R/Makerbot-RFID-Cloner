@@ -1,3 +1,4 @@
+![PN5180connection](https://github.com/user-attachments/assets/d1dd1d8b-feec-4277-9ba8-fb07d2816dbb)
 I have a lot of empty SR-30 spools and i respool them with ABS (its way cheaper than buing original from Makerbot). The one problem with that is, i only have one ABS RFID chip. So i made my own RFID cloner for these chips.
 
 You need the following Library: https://github.com/ATrappmann/PN5180-Library
@@ -52,4 +53,8 @@ RFID TAGS_______________________________________________________________________
 I use the old SR-30 RFID tags.
 
 If you need new RFID tags, you can buy them easily (https://www.ebay.de/itm/364655662869?_skw=iso+15693&itmmeta=01JE3AMX6FMD4FZ348DKF9A4XN&hash=item54e72bd715:g:gB4AAOSwMKNlw~Vw&itmprp=enc%3AAQAJAAAA0HoV3kP08IDx%2BKZ9MfhVJKm4HNlsBZ7eKHAijT%2FPY0JAVfoXb2ZGtaMjs3CBv5SdTnZiQGq3%2Flrnm2FsDOtRHo2Ga1wn6SE6RR8K%2F%2BhD2UxB1BhdQtotgygYN2boV%2Fd3ArwA7K0NmbxbA6IIxaGS46IZnDWxzUzFM%2BJTaC%2FR8lONevazQb1DAW5gpIfILcorGATyS0ZGjA0DqFYP3Z9Mk2LpadfuxZzlLVJw5Unfkn%2F7U%2BqX%2BixDYyXX9ACW%2Fl%2FRVG906PzGiFlcRsRW5qgILDA%3D%7Ctkp%3ABk9SR7LT0-rwZA)
+
+HOW TO CONNECT__________________________________________________________________________________________________________
+
+![PN5180connection](https://github.com/user-attachments/assets/2afcb0cf-af08-4ba9-9a9a-0d3039215cec)
 
