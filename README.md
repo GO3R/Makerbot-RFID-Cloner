@@ -1,4 +1,3 @@
-![PN5180connection](https://github.com/user-attachments/assets/d1dd1d8b-feec-4277-9ba8-fb07d2816dbb)
 I have a lot of empty SR-30 spools and i respool them with ABS (its way cheaper than buing original from Makerbot). The one problem with that is, i only have one ABS RFID chip. So i made my own RFID cloner for these chips.
 
 You need the following Library: https://github.com/ATrappmann/PN5180-Library
