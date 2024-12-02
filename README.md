@@ -8,7 +8,7 @@ You need the following Library: https://github.com/ATrappmann/PN5180-Library
 
 
 
-3D-Model is in the testing phase, so coming very soon...
+3D-Model and circuit board (both not necessary for the function, but it looks nicer) is in the testing phase, so coming very soon...
 
 
 
