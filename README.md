@@ -20,7 +20,7 @@ You can read one RFID tag and copy it as often as you want.
 You can not read one RFID tag and write to the same with the same data (you can't "fill" the spool directly)
 
 
-HARDWARE YOU NEED______________________________________________________________________________________________________________
+HARDWARE YOU NEED____________________________________________________________________________________________________________
 
 1X Arduino UNO R3 (https://www.reichelt.de/arduino-uno-rev-3-dip-variante-atmega328-usb-arduino-uno-dip-p154902.html?&trstct=pos_2&nbc=1)
 
@@ -48,6 +48,7 @@ Soldering iron and wires to connect it
 
 
 RFID TAGS________________________________________________________________________________________________________________
+
 I use the old SR-30 RFID tags.
 
 If you need new RFID tags, you can buy them easily (https://www.ebay.de/itm/364655662869?_skw=iso+15693&itmmeta=01JE3AMX6FMD4FZ348DKF9A4XN&hash=item54e72bd715:g:gB4AAOSwMKNlw~Vw&itmprp=enc%3AAQAJAAAA0HoV3kP08IDx%2BKZ9MfhVJKm4HNlsBZ7eKHAijT%2FPY0JAVfoXb2ZGtaMjs3CBv5SdTnZiQGq3%2Flrnm2FsDOtRHo2Ga1wn6SE6RR8K%2F%2BhD2UxB1BhdQtotgygYN2boV%2Fd3ArwA7K0NmbxbA6IIxaGS46IZnDWxzUzFM%2BJTaC%2FR8lONevazQb1DAW5gpIfILcorGATyS0ZGjA0DqFYP3Z9Mk2LpadfuxZzlLVJw5Unfkn%2F7U%2BqX%2BixDYyXX9ACW%2Fl%2FRVG906PzGiFlcRsRW5qgILDA%3D%7Ctkp%3ABk9SR7LT0-rwZA)
