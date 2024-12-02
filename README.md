@@ -7,6 +7,11 @@ I "reverse engeneered" the original RFID tag contents for you, but i will not sh
 You need the following Library: https://github.com/ATrappmann/PN5180-Library
 
 
+
+3D-Model is in the testing phase, so coming very soon...
+
+
+
 HOW TO USE THIS PRODUCT_____________________________________________________________________________________________________
 
 The first switch is switching between read and write. (one green LED is a status LED, one is for read and one is for write)
