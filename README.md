@@ -66,6 +66,12 @@ JST XH connectors, i buy them in a set (https://www.ebay.de/itm/175923966477?_sk
 
 1X male headers (https://www.reichelt.de/stiftleisten-2-54-mm-1x24-gerade-mpe-087-1-024-p119889.html?&trstct=pol_11&nbc=1) (you need at least 19 Pins for the Arduino and 12 for the level shifter)
 
+8X M3x5 screw (https://www.ebay.de/itm/371713576275?_skw=m3x5&itmmeta=01JF7XCENQA1R7PBYJD1W71DF9&hash=item568bdb0d53%3Ag%3AwDQAAOSw8thZnFHJ&itmprp=enc%3AAQAJAAAAwHoV3kP08IDx%2BKZ9MfhVJKkly9PinaU0nvnuiB6hH%2FWr7o1ZXoZsEApFP5SxZfG9Kuy8sq0PJFaigqiJTBfd7ERH0SAIsUPBXh1QsEzAxBPMdhcxEDbBqu7g%2FLz3d5MrcnwDAE0Q3%2FgWUyzbJJD%2BTL7VSRrIHwcSoE%2Bq1uMfaM4c23357kkW7G54Xxxxh0N4LYaHsmDUQteNc501i1DJewiW3Hiii46r9IrMN00bEjqv3yQl6nD53qCPN4QVQ0cu7g%3D%3D%7Ctkp%3ABlBMUIzrsf35ZA&var=640692312773) (for fixing the RFID reader and the Arduino)
+
+4X M3x10 screw (https://www.ebay.de/itm/371713576275?_skw=m3x5&itmmeta=01JF7XCENQA1R7PBYJD1W71DF9&hash=item568bdb0d53%3Ag%3AwDQAAOSw8thZnFHJ&itmprp=enc%3AAQAJAAAAwHoV3kP08IDx%2BKZ9MfhVJKkly9PinaU0nvnuiB6hH%2FWr7o1ZXoZsEApFP5SxZfG9Kuy8sq0PJFaigqiJTBfd7ERH0SAIsUPBXh1QsEzAxBPMdhcxEDbBqu7g%2FLz3d5MrcnwDAE0Q3%2FgWUyzbJJD%2BTL7VSRrIHwcSoE%2Bq1uMfaM4c23357kkW7G54Xxxxh0N4LYaHsmDUQteNc501i1DJewiW3Hiii46r9IrMN00bEjqv3yQl6nD53qCPN4QVQ0cu7g%3D%3D%7Ctkp%3ABlBMUIzrsf35ZA&var=640692312785) (for closing the enclosure)
+
+12X M3x4 Heat set insert (https://www.ebay.de/itm/365099517164?_skw=m3+heat+set+insert&itmmeta=01JF7X515R4HQZA5W9H7KC739H&hash=item5501a084ec:g:~2cAAOSw5dRm-uM4&itmprp=enc%3AAQAJAAAA8HoV3kP08IDx%2BKZ9MfhVJKnlBm8j0I69Sj1BbFbPdS8nYluoulM0gPdxg3o6He4ZQ%2B2inAb%2Fx1iL%2B5nDg87jp2D8cdYijXuN6lU3qulGXgiR8%2Br0VKpuOzf6F%2Fhq1xBEKgG0P5IoC8KRwZCPXckpipD3NUH02bmZMbyxsJG%2Bi5I59XkpH7Pn3vsHFkcPHAH25VEDUF9Wv%2Bdrpj6%2B85e6i1u1xg8hfjn0DY%2B7clZgKeuuznTwwYOFkSU74EX7Zxjyo8OfMmh20J6cD32%2FzyEcwYKqwihJjIxv2SPWmv7jqdCKNBd6dod1XYUgBPgH9D7xMQ%3D%3D%7Ctkp%3ABk9SR4qTlP35ZA) (Optional)
+
 Soldering iron and wires to connect it
 
 3D Printer for the case
