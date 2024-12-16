@@ -56,6 +56,13 @@ HARDWARE YOU NEED_______________________________________________________________
 
 4X 10KOhm Resistor (https://www.reichelt.de/widerstand-metallschicht-10-kohm-axial-1-w-5--vis-pr0100010105-p237110.html?&trstct=pos_6&nbc=1)
 
+JST XH connectors, i buy them in a set (https://www.ebay.de/itm/175923966477?_skw=jst+xh&itmmeta=01JF7RE7BS6BCZPJXQEYGT0QK3&hash=item28f5e2b20d:g:k~QAAOSwrwBlEuX9&itmprp=enc%3AAQAJAAAAwHoV3kP08IDx%2BKZ9MfhVJKnbRvawEu%2B8LMwjy22IyXHMFGQoypK%2BP99wUpl74c3Shsb5031voZ7Elp2Y5rr1cnSrt%2FH1HYbOoYFthzPSpJzHo%2FDVP57WFXn93Xlbfuq22HPrJMpSqqaMV%2ByNIzVOWLdVqVBmzq4O7NO%2BiFERnPkYlSbWIv%2BWIPW0ks2SB8gBeqDLTAxMF2xIVMGQURE8srL3bIoqH0XsqCWC5MZrvEYBQVrweXD9M4PPJjd0NEWSRA%3D%3D%7Ctkp%3ABk9SR4z2uPj5ZA)
+(7X 2Pin, 1X 3Pin, 1X 4Pin, 1X5Pin)
+
+2X female headers 6 pin (https://www.reichelt.de/buchsenleisten-2-54-mm-1x06-gerade-mpe-094-1-006-p119915.html?&trstct=pol_7&nbc=1) (you don't need them, if you solder the level shifter in place)
+
+1X male headers (https://www.reichelt.de/stiftleisten-2-54-mm-1x24-gerade-mpe-087-1-024-p119889.html?&trstct=pol_11&nbc=1) (you need at least 19 Pins for the Arduino and 12 for the level shifter)
+
 Soldering iron and wires to connect it
 
 3D Printer for the case
