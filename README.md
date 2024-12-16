@@ -8,7 +8,10 @@ You need the following Library: https://github.com/ATrappmann/PN5180-Library
 
 
 
-3D-Model and circuit board (both not necessary for the function, but it looks nicer) is in the testing phase, so coming very soon...
+3D-Model and circuit board (both not necessary for the function, but it looks nicer) is attached. Hard wiring is possible, but extremely difficult, because you dont have much space in the enclosure. 
+
+
+![Picture](https://github.com/user-attachments/assets/25dee690-f650-4349-a85e-ef0370c1a465)
 
 
 
@@ -30,7 +33,7 @@ You can not read one RFID tag and write to the same with the same data (you can'
 
 FUTURE_______________________________________________________________________________________________________________________
 
-I want to designt build a respooler, where i can get big spools (4,5kg) and respool them on to the Makerbot spools. 
+I want to design and build a respooler, where i can get big spools (4,5kg) and respool them on to the Makerbot spools. 
 I want to include a weight sensor, so the spools are filled to the specs from the RFID tags (eg. 600g/650g/etc). There should also be perfect winding and a filament runout sensor. (Lets see, it could take a while)
 
 
