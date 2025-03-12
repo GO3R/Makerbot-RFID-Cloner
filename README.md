@@ -24,7 +24,7 @@ Unfortunately, I don't have all the materials, so the machine can't create them 
 
 
 
-HOW TO USE THIS PRODUCT IN V1_______________________________________________________________________________________________
+HOW TO USE THIS PRODUCT IN V1________________________________________________________________________________________
 
 The first switch is switching between read and write. (one green LED is a status LED, one is for read and one is for write)
 
@@ -42,7 +42,7 @@ You can not read one RFID tag and write to the same with the same data (you can'
 
 
 
-HOW TO USE THIS PRODUCT IN V2_______________________________________________________________________________________________
+HOW TO USE THIS PRODUCT IN V2________________________________________________________________________________________
 
 One switch ist an OnOff switch, the other is the Read-Write selector switch. 
 
@@ -52,7 +52,7 @@ Select write, a material and a colour, add the RFID Tag and write the material.
 
 
 
-HARDWARE YOU NEED V1____________________________________________________________________________________________________________
+HARDWARE YOU NEED V1________________________________________________________________________________________
 
 1X Arduino UNO R3 (https://www.reichelt.de/arduino-uno-rev-3-dip-variante-atmega328-usb-arduino-uno-dip-p154902.html?&trstct=pos_2&nbc=1)
 
@@ -93,7 +93,7 @@ Soldering iron and wires to connect it
 
 
 
-HARDWARE YOU NEED V2____________________________________________________________________________________________________________
+HARDWARE YOU NEED V2________________________________________________________________________________________
 
 1X Arduino UNO R3 (https://www.reichelt.de/arduino-uno-rev-3-dip-variante-atmega328-usb-arduino-uno-dip-p154902.html?&trstct=pos_2&nbc=1)
 
@@ -132,17 +132,17 @@ Soldering iron and wires to connect it
 
 
 
-RFID TAGS________________________________________________________________________________________________________________
+RFID TAGS________________________________________________________________________________________
 
 I use the old SR-30 RFID tags.
 
 If you need new RFID tags, you can buy them easily (https://www.ebay.de/itm/364655662869?_skw=iso+15693&itmmeta=01JE3AMX6FMD4FZ348DKF9A4XN&hash=item54e72bd715:g:gB4AAOSwMKNlw~Vw&itmprp=enc%3AAQAJAAAA0HoV3kP08IDx%2BKZ9MfhVJKm4HNlsBZ7eKHAijT%2FPY0JAVfoXb2ZGtaMjs3CBv5SdTnZiQGq3%2Flrnm2FsDOtRHo2Ga1wn6SE6RR8K%2F%2BhD2UxB1BhdQtotgygYN2boV%2Fd3ArwA7K0NmbxbA6IIxaGS46IZnDWxzUzFM%2BJTaC%2FR8lONevazQb1DAW5gpIfILcorGATyS0ZGjA0DqFYP3Z9Mk2LpadfuxZzlLVJw5Unfkn%2F7U%2BqX%2BixDYyXX9ACW%2Fl%2FRVG906PzGiFlcRsRW5qgILDA%3D%7Ctkp%3ABk9SR7LT0-rwZA)
 
-HOW TO CONNECT V1__________________________________________________________________________________________________________
+HOW TO CONNECT V1________________________________________________________________________________________
 
 ![PN5180connection](https://github.com/user-attachments/assets/2afcb0cf-af08-4ba9-9a9a-0d3039215cec)
 
-HOW TO CONNECT V2__________________________________________________________________________________________________________
+HOW TO CONNECT V2________________________________________________________________________________________
 
 ![PN5180connectionV2](https://github.com/user-attachments/assets/02b10d63-5c87-4d55-b448-3e94b0a4e9ae)
 
