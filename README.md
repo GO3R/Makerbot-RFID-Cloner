@@ -12,6 +12,12 @@ You need the following Library: https://github.com/ATrappmann/PN5180-Library
 
 3D-Model and circuit board (both not necessary for the function, but it looks nicer) is attached. Hard wiring is possible, but extremely difficult, because you dont have much space in the enclosure. 
 
+Version 2.0 of my Makerbot Method X RFID Coil Cloner is finally finished. Unfortunately, I had to remove the clone function, but you can still select all 16 materials and 16 different colors and read the tag in the serial monitor. Plus, you can now use the device from anywhere thanks to the integrated 9V battery.
+
+I removed four LEDs because I needed the pins from the Arduino, so only one 220 ohm resistor is needed. A switch (previously used to fill the coil) was repurposed. This switches the battery supply to the Arduino. Pull-up resistors are now used for the switches and buttons, making the 10k ohm resistors unnecessary. The circuit board has been completely redesigned. Two OTAX KMR162s were added to allow material and color selection.
+
+Unfortunately, I don't have all the materials, so the machine can't create them all. I have ABS, ASA, Nylon, PC-ABS, PETG, PLA, PVA, and SR-30. I don't have the MakerBot hex code for any other materials. If you have these materials, please send me the hex code (the output from the serial monitor). I will then expand the code a little bit until it's complete.
+
 
 ![Picture](https://github.com/user-attachments/assets/25dee690-f650-4349-a85e-ef0370c1a465)
 
